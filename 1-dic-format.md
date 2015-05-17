@@ -1,4 +1,4 @@
-#The DIC Format
+#1. The DIC Format
 Firstly, let's define some terms:
 
 Rant uses a plaintext, hierarchical file format called DIC for storing dictionary data in units called **tables**, which collectively form a **dictionary**. A table is a collection of **entries** of a specific category, such as nouns, verbs or first names. Table entries can be comprised of one or more **terms**, which make up the contents of that entry. An entry can also have metadata associated with it, such as **classes** that help describe what the entry means, as well as pronunciation, weight, and syllable data. More about these later.
