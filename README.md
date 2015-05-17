@@ -8,3 +8,6 @@ The guide is divided into chapters that each deal with a separate topic. You can
 1. **[The DIC Format](./1-dic-format.md)**
 2. **[Standard Subtypes](./2-standard-subtypes.md)**
 3. **[Standard Classes](./3-standard-classes.md)**
+
+##Contributions
+I welcome contributions that add to or imrpove existing content in this guide. Community feedback is extremely important to making sure that documentation is as helpful and clear as possible. Feel free to send me a pull request!
