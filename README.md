@@ -1,4 +1,4 @@
-# Rant Dictionary Guidelines
+# Rant Dictionary Guide
 
 ##Table of Contents
 1. **[The DIC Format](./1-dic-format.md)**
