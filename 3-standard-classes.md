@@ -1,4 +1,4 @@
-#Standard classes
+#3. Standard classes
 ##Connotations
 There are specific classes used to reflect the general connotation of a dictionary entry.
 
