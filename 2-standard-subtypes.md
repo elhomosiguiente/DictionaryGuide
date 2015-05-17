@@ -1,4 +1,4 @@
-#Standard subtypes
+#2. Standard subtypes
 ##Verbs
 English verbs currently have seven established subtypes: `simple` `ing` `ed` `s` `er` `pp`, and `nom`.
 
