@@ -5,10 +5,10 @@ There are specific classes used to reflect the general connotation of a dictiona
 ### Classes
 |Class Name|Meaning|Example|
 |:--------:|-------|-------|
-|`cn3`|Objectively negative. Almost always offensive if used.|shitty|
-|`cn2`|Generally regarded as negative, but not objectively negative.|vulgar|
+|`cn3`|Objectively negative. Almost always offensive if spoken.|shitty|
+|`cn2`|Generally regarded as negative, but not offensive unless used personally.|vulgar|
 |`cn1`|Only appropriate in very specific contexts.|moist|
-|`c0`|Neither perceived as good nor bad. A regular word.|cylindrical|
+|`c0`|A regular word with no strong associations.|cylindrical|
 |`cp1`|Generally regarded as positive, cheerful, or constructive.|beautiful|
 
 ## Preposition agreement
