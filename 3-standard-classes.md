@@ -24,7 +24,9 @@ Example: "around" = "p94"
 
 
                         75: into
-                        95: through
+                        95: out
+                        79: past
+                        759: through
 
                    78: onto    98: above
               ╔═════════╦═════════╦═════════╗
