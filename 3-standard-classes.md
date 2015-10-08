@@ -22,6 +22,10 @@ Then, put a "p" before it.
 
 Example: "around" = "p94"
 
+
+                        75: into
+                        95: through
+
                    78: onto    98: above
               ╔═════════╦═════════╦═════════╗
               ║    7    ║    8    ║    9    ║
@@ -34,6 +38,7 @@ Example: "around" = "p94"
               ║ behind  ║  under  ║  front  ║
               ╚═════════╩═════════╩═════════╝
                  72: up to      92: below
+
 
 * Modifier digit.
 ```
